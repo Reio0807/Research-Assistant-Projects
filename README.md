@@ -1,4 +1,9 @@
-# Research-Assistant-Projects
-The research assistant works performed at enrolled universities.
+# **Research Assistant Work Overview**
 
-Due to the confidentiality of the research works, I will only share the links to the notebooks and writing reports I have worked on. No data files will be shared.
+This repository contains research assistant work conducted at enrolled universities.
+
+Due to confidentiality agreements, only **notebooks and written reports** that I have contributed to will be shared. **No data files** will be included.
+
+- **Ongoing research projects**: Links to related files are provided to allow for real-time updates.  
+- **Completed research projects**: Physical copies of the code files are uploaded for reference.
+
