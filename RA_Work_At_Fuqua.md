@@ -1,51 +1,62 @@
- - This file contains currently on going research works performed at my master's program, Duke University's Fuqua School of Business.
- - Hence I am using dynamic links to my research works for more convenient updates.
+# Ongoing Research Projects
 
-**RA Projects (Sep 2024 - present)**
+- This file contains currently ongoing research works performed at my master's program, **Duke University's Fuqua School of Business**.
+- Hence, I am using dynamic links to my research works for more convenient updates.
 
-1. Clifton Strengths Data Assistant
-- **Project Goals:** The Data Assistant will research and implement methods to collect, organize, and analyze participation and behavioral data; distill insights; and create reports related to program participation and student impact for the CliftonStrengths initiative.
-- **Role Description:**
-	1. Data Collection
-	 - Develop and propose a data collection strategy for understanding the impact of the CliftonStrengths program.
-	 - Research and advise best ways to integrate recommendations with   existing systems and data.
-	 - Establish a catalog of surveys for future data management and insight collection.
-	 - Recommend and develop standard operating procedures appropriate for novice users.
+---
 
-<br/>
+## **➤ RA Projects (Sep 2024 - Present)**
 
-	2. Data Management, Insights & Communication
-	 - Clean, code, and analyze past, present, and incoming CliftonStrengths data.
-	 - Identify and communicate trends and insights.
-	 - Create reports and educational materials.
-	 - Recommend opportunities for assessment and research, particularly    behavioral impact.
+### **__Clifton Strengths Data Assistant__**
+___
+#### **Project Goals:**
+The Data Assistant will research and implement methods to:
+- Collect, organize, and analyze participation and behavioral data.
+- Distill insights and create reports related to program participation and student impact for the CliftonStrengths initiative.
 
-**Clifton's Strength RA Work links:**
+#### **Role Description:**
+1. **Data Collection**
+   - Develop and propose a data collection strategy for understanding the impact of the CliftonStrengths program.
+   - Research and advise best ways to integrate recommendations with existing systems and data.
+   - Establish a catalog of surveys for future data management and insight collection.
+   - Recommend and develop standard operating procedures appropriate for novice users.
 
-1. Data Analysis Notebook: https://colab.research.google.com/drive/1BpGVMD0eR8zkyXLqIFFwO2eJB0bej-eT?usp=sharing
+2. **Data Management, Insights & Communication**
+   - Clean, code, and analyze past, present, and incoming CliftonStrengths data.
+   - Identify and communicate trends and insights.
+   - Create reports and educational materials.
+   - Recommend opportunities for assessment and research, particularly behavioral impact.
 
-2. Research reflection & Notes: https://drive.google.com/drive/folders/1xhrtY0t7IpAXpxBowKGpkrRGqzXPgFA2?usp=sharing
+#### **Clifton's Strength RA Work Links:**
+- 📑 **[Data Analysis Notebook](https://colab.research.google.com/drive/1BpGVMD0eR8zkyXLqIFFwO2eJB0bej-eT?usp=sharing)**
+- 📂 **[Research Reflection & Notes](https://drive.google.com/drive/folders/1xhrtY0t7IpAXpxBowKGpkrRGqzXPgFA2?usp=sharing)**
 
-<br/>
-<br/>
+---
 
-2. Duke Bass Connection Program–Scholar Academy for Latinxs United for Diversity (SALUD)
-- **Project Goals:** Evaluate the effectiveness of the following 3 aspects of the SALUD Program:
-					- Curriculum development
-					- Alumni Outreach
-					- College prep 
-					* Goal: Foster the growth of the SALUD program more effectively
-- **Role Description:**
-	- Working with the team to set milestones and a timeline for the project
-  	- Scheduling meetings with undergraduate student participants
-	- Training students in relevant project management and research methodologies
- 	- Meeting weekly with the project leaders to discuss team progress and next steps and tracking the progress of each sub-team towards expected deliverables
-	- Identifying problems and proposing potential solutions in the research and operations processes
-	- Facilitating the engagement of students
-	- Capturing project outcomes and overseeing the consolidation and presentation of data using relevant technology
+### **__Duke Bass Connection Program – Scholar Academy for Latinxs United for Diversity (SALUD)__**
+___
+#### **Project Goals:**
+Evaluate the effectiveness of three key aspects of the **SALUD Program**:
+- 📌 Curriculum development  
+- 📌 Alumni outreach  
+- 📌 College prep  
 
-**SALUD RA Work links:**
+**🎯 Goal:** Foster the growth of the SALUD program more effectively.
 
-1. Data Analysis Notebook: https://colab.research.google.com/drive/1yKRW8k1BdsYBbVVYhFPqQizU5koH3GVp?usp=sharing
+#### **Role Description:**
+- Work with the team to set milestones and a timeline for the project.
+- Schedule meetings with undergraduate student participants.
+- Train students in relevant project management and research methodologies.
+- Meet weekly with the project leaders to discuss team progress and next steps.
+- Track the progress of each sub-team towards expected deliverables.
+- Identify problems and propose potential solutions in the research and operations processes.
+- Facilitate the engagement of students.
+- Capture project outcomes and oversee the consolidation and presentation of data using relevant technology.
 
-2. Research reflection & Notes: https://drive.google.com/drive/folders/1suXm7M3RxxZqJJYXxIT0hYlV3lqY8Yoh?usp=sharing
+#### **SALUD RA Work Links:**
+- 📑 **[Data Analysis Notebook](https://colab.research.google.com/drive/1yKRW8k1BdsYBbVVYhFPqQizU5koH3GVp?usp=sharing)**
+- 📂 **[Research Reflection & Notes](https://drive.google.com/drive/folders/1suXm7M3RxxZqJJYXxIT0hYlV3lqY8Yoh?usp=sharing)**
+
+---
+
+This format ensures clear sectioning, underlining for titles, bullet point spacing, and better readability. 🚀 Let me know if you need any further refinements! 😊
