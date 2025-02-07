@@ -1,6 +1,6 @@
 # Ongoing Research Projects
 
-- This file contains currently ongoing research works performed at my master's program, **Duke University's Fuqua School of Business**.
+- This file contains currently ongoing research works performed during my master's program, **Duke University's Fuqua School of Business**.
 - Hence, I am using dynamic links to my research works for more convenient updates.
 
 ---
