@@ -57,6 +57,3 @@ Evaluate the effectiveness of three key aspects of the **SALUD Program**:
 - 📑 **[Data Analysis Notebook](https://colab.research.google.com/drive/1yKRW8k1BdsYBbVVYhFPqQizU5koH3GVp?usp=sharing)**
 - 📂 **[Research Reflection & Notes](https://drive.google.com/drive/folders/1suXm7M3RxxZqJJYXxIT0hYlV3lqY8Yoh?usp=sharing)**
 
----
-
-This format ensures clear sectioning, underlining for titles, bullet point spacing, and better readability. 🚀 Let me know if you need any further refinements! 😊
