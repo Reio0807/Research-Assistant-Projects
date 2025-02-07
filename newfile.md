@@ -13,7 +13,6 @@
 	 - Recommend and develop standard operating procedures appropriate for novice users.
 
 <br/>
-
 	2. Data Management, Insights & Communication
 	 - Clean, code, and analyze past, present, and incoming CliftonStrengths data.
 	 - Identify and communicate trends and insights.
@@ -25,27 +24,3 @@
 1. Data Analysis Notebook: https://colab.research.google.com/drive/1BpGVMD0eR8zkyXLqIFFwO2eJB0bej-eT?usp=sharing
 
 2. Research reflection & Notes: https://drive.google.com/drive/folders/1xhrtY0t7IpAXpxBowKGpkrRGqzXPgFA2?usp=sharing
-
-<br/>
-<br/>
-
-2. Duke Bass Connection Program–Scholar Academy for Latinxs United for Diversity (SALUD)
-- **Project Goals:** Evaluate the effectiveness of the following 3 aspects of the SALUD Program:
-					- Curriculum development
-					- Alumni Outreach
-					- College prep 
-					* Goal: Foster the growth of the SALUD program more effectively
-- **Role Description:**
-	- Working with the team to set milestones and a timeline for the project
-  	- Scheduling meetings with undergraduate student participants
-	- Training students in relevant project management and research methodologies
- 	- Meeting weekly with the project leaders to discuss team progress and next steps and tracking the progress of each sub-team towards expected deliverables
-	- Identifying problems and proposing potential solutions in the research and operations processes
-	- Facilitating the engagement of students
-	- Capturing project outcomes and overseeing the consolidation and presentation of data using relevant technology
-
-**SALUD RA Work links:**
-
-1. Data Analysis Notebook: https://colab.research.google.com/drive/1yKRW8k1BdsYBbVVYhFPqQizU5koH3GVp?usp=sharing
-
-2. Research reflection & Notes: https://drive.google.com/drive/folders/1suXm7M3RxxZqJJYXxIT0hYlV3lqY8Yoh?usp=sharing
